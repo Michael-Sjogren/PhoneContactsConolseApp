@@ -4,6 +4,6 @@ A simple application that asks for phone numbers from the user and saves it into
 The user has a choice in whether or not to continue adding phone numbers.
 
 ## What i learned
-  - reading and writing to files in C++/C
+  - reading and writing to files in C++ / C
   
 
